@@ -78,72 +78,70 @@ Use tom educativo, linguagem acessível e escreva tudo em português brasileiro.
 
 ---
 
-# Prints e Interações com a IA
+## 🖼️ Prints das Interações com a IA
 
-> Adicione abaixo os prints ou vídeos das suas conversas com a IA durante o processo de criação.
+### Interação 1 — Prompt inicial vago e resposta genérica
 
-### Interação 1 — Refinamento do Prompt
+![Prompt inicial](./assets/Captura%20de%20Tela%20(97).png)
+![Resposta genérica](./assets/Captura%20de%20Tela%20(98).png)
 
-<!-- Substitua o caminho abaixo pelo print real -->
-![Refinamento do prompt](./assets/interacao-01-refinamento.png)
-
-*Descrição: Conversa onde o prompt original foi refinado com base em perguntas sobre público-alvo, restrições e formato do entregável.*
+*A primeira tentativa com um prompt curto e sem contexto gerou uma resposta genérica, sem considerar público-alvo, restrições ou formato de entregável.*
 
 ---
 
-### Interação 2 — Geração do Plano de MVP
+### Interação 2 — Refinamento do Prompt
 
-<!-- Substitua o caminho abaixo pelo print real -->
-![Geração do MVP](./assets/interacao-02-mvp.png)
+![Refinamento parte 1](./assets/Captura%20de%20Tela%20(99).png)
+![Refinamento parte 2](./assets/Captura%20de%20Tela%20(100).png)
+![Refinamento parte 3](./assets/Captura%20de%20Tela%20(101).png)
 
-*Descrição: Resultado gerado pela IA a partir do prompt refinado, contendo as telas, stack sugerida e matriz de priorização.*
-
----
-
-### Interação 3 — [Adicione o título da sua interação]
-
-<!-- Adicione mais prints conforme necessário -->
-![Interação adicional](./assets/interacao-03.png)
-
-*Descrição: [Descreva o que aconteceu nessa conversa]*
+*A IA orientou como estruturar melhor o prompt, destacando contexto, público-alvo, não-escopo e formato do entregável.*
 
 ---
 
-## 🪞 Reflexão sobre o Processo
+### Interação 3 — Geração do Plano de MVP e Telas
 
-### ✅ O que funcionou bem?
+![Plano de MVP parte 1](./assets/Captura%20de%20Tela%20(102).png)
+![Plano de MVP parte 2](./assets/Captura%20de%20Tela%20(103).png)
+![Plano de MVP parte 3](./assets/Captura%20de%20Tela%20(104).png)
+![Plano de MVP parte 4](./assets/Captura%20de%20Tela%20(105).png)
+![Telas do MVP parte 1](./assets/Captura%20de%20Tela%20(106).png)
+![Telas do MVP parte 2](./assets/Captura%20de%20Tela%20(107).png)
+![Telas do MVP parte 3](./assets/Captura%20de%20Tela%20(109).png)
+![Telas do MVP parte 4](./assets/Captura%20de%20Tela%20(110).png)
 
-<!-- Escreva aqui o que você achou mais eficaz na sua experiência com a IA -->
-
-- Dar **contexto claro** desde o início (problema, público, funcionalidades) fez a IA gerar respostas muito mais relevantes.
-- Definir o **não-escopo** explicitamente evitou sugestões desnecessariamente complexas para um projeto solo.
-- Pedir um entregável **estruturado em tópicos numerados** garantiu uma resposta organizada e acionável.
+*Com o prompt refinado, a IA gerou um plano completo com telas, stack sugerida, métricas de validação, matriz de priorização e riscos.*
+*Pergunta de aprofundamento sobre as 5 telas principais do MVP, com descrição funcional detalhada de cada uma.*
 
 ---
 
-### ❌ O que não funcionou como o esperado?
+## Reflexão sobre o Processo
 
-<!-- Escreva aqui as frustrações ou surpresas negativas durante o processo -->
+# O que funcionou bem?
+
+- Dar *contexto claro* desde o início (problema, público, funcionalidades) fez a IA gerar respostas muito mais relevantes.
+- Definir o *não-escopo* explicitamente evitou sugestões desnecessariamente complexas para um projeto solo.
+- Pedir um entregável *estruturado em tópicos numerados* garantiu uma resposta organizada e acionável.
+
+---
+
+# O que não funcionou como o esperado?
 
 - A primeira versão do prompt era vaga demais — a IA gerou um plano genérico, sem considerar as restrições do projeto.
 - Sem especificar o formato do entregável, a resposta inicial misturava estilos e não tinha uma estrutura clara.
-- *[Adicione suas próprias observações aqui]*
 
 ---
 
-### 🧠 O que aprendi sobre conversar com IAs?
+# O que aprendi sobre conversar com IAs?
 
-<!-- Escreva suas principais aprendizagens sobre engenharia de prompts -->
-
-- **Precisão importa mais do que tamanho**: um prompt curto e bem estruturado supera um prompt longo e vago.
-- **Iteração é parte do processo**: o prompt ideal raramente sai na primeira tentativa — refinar é esperado.
-- **A IA segue o que você diz, não o que você quer dizer**: ser explícito sobre restrições e formato é fundamental.
-- **Perguntas abertas geram respostas abertas**: quanto mais específica a pergunta, mais útil a resposta.
-- *[Adicione suas próprias aprendizagens aqui]*
+- *Precisão importa mais do que tamanho*: um prompt curto e bem estruturado supera um prompt longo e vago.
+- *Iteração é parte do processo*: o prompt ideal raramente sai na primeira tentativa — refinar é esperado.
+- *A IA segue o que você diz, não o que você quer dizer*: ser explícito sobre restrições e formato é fundamental.
+- *Perguntas abertas geram respostas abertas*: quanto mais específica a pergunta, mais útil a resposta.
 
 ---
 
-## 🛠️ Stack Sugerida pela IA
+# Stack Sugerida pela IA
 
 | Camada | Tecnologia |
 |--------|-----------|
@@ -155,7 +153,7 @@ Use tom educativo, linguagem acessível e escreva tudo em português brasileiro.
 
 ---
 
-## 📁 Estrutura do Repositório
+# Estrutura do Repositório
 
 ```
 /
